@@ -1,0 +1,8 @@
+x, y = input("Enter two values: ").split()
+x=int(x)
+y=int(y)
+result1= x-y
+result2= x+y
+result3= x*y
+result4= x/y
+result5= x**y
