@@ -1,1 +1,4 @@
 z=input('enter third input');
+result6=result1+z;
+result7=result1**z;
+result8=result%z;
