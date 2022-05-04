@@ -6,3 +6,6 @@ result2= x+y
 result3= x*y
 result4= x/y
 result5= x**y
+z=input("Enter third value:")
+result6=result1+z
+result7=result1*z
